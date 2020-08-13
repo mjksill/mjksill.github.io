@@ -4,3 +4,6 @@
 [submodule "MathJax"]
 	path = MathJax
 	url = https://github.com/mathjax/MathJax.git
+[submodule "reveal.js-plugins"]
+	path = reveal.js-plugins
+	url = git@github.com:mjksill/reveal.js-plugins.git
